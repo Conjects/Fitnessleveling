@@ -1,3 +1,5 @@
+extra["kotlin_version"] = "1.8.0" // Add this line to define the Kotlin version
+
 allprojects {
     repositories {
         google()
